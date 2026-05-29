@@ -1,2 +1,4 @@
 # CLIQ
-Concurs de Logică și Informatică Cuantică
+Repository for documents of CLIQ competition.
+
+Concurs de Logică și Informatică Cuantică.
